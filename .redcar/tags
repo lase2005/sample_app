@@ -1,0 +1,5 @@
+1345332150
+Application	/home/user/sample_app/config/application.rb	  class Application 
+ApplicationController	/home/user/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/user/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	/home/user/sample_app/config/application.rb	module SampleApp
