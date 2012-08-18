@@ -1,5 +1,9 @@
-1345332150
+1345332649
 Application	/home/user/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/user/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/user/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 SampleApp	/home/user/sample_app/config/application.rb	module SampleApp
+StaticPagesController	/home/user/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	/home/user/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+help	/home/user/sample_app/app/controllers/static_pages_controller.rb	  def help
+home	/home/user/sample_app/app/controllers/static_pages_controller.rb	  def home
