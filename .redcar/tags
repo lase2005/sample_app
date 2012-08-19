@@ -1,20 +1,20 @@
-1345339226
-About page	/home/user/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
-Application	/home/user/sample_app/config/application.rb	  class Application 
-ApplicationController	/home/user/sample_app/app/controllers/application_controller.rb	class ApplicationController 
-ApplicationHelper	/home/user/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
-Help page	/home/user/sample_app/spec/requests/static_pages_spec.rb	describe "Help page" do
-Home page	/home/user/sample_app/spec/requests/static_pages_spec.rb	describe "Home page" do
-SampleApp	/home/user/sample_app/config/application.rb	module SampleApp
-Static pages	/home/user/sample_app/spec/requests/static_pages_spec.rb	describe "Static pages" do
-StaticPagesController	/home/user/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
-StaticPagesHelper	/home/user/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
-about	/home/user/sample_app/app/controllers/static_pages_controller.rb	  def about
-help	/home/user/sample_app/app/controllers/static_pages_controller.rb	  def help
-home	/home/user/sample_app/app/controllers/static_pages_controller.rb	  def home
-should have the h1 'About Us'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
-should have the h1 'Help'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
-should have the h1 'Sample App'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Sample App'" do
-should have the title 'About Us'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
-should have the title 'Help'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
-should have the title 'Home'	/home/user/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Home'" do
+1345341325
+About page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
+Application	/home/brandon/sample_app/config/application.rb	  class Application 
+ApplicationController	/home/brandon/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/brandon/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+Help page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Help page" do
+Home page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Home page" do
+SampleApp	/home/brandon/sample_app/config/application.rb	module SampleApp
+Static pages	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Static pages" do
+StaticPagesController	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	/home/brandon/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+about	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def about
+help	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def help
+home	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def home
+should have the h1 'About Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
+should have the h1 'Help'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
+should have the h1 'Sample App'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Sample App'" do
+should have the title 'About Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
+should have the title 'Help'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
+should have the title 'Home'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Home'" do
