@@ -1,8 +1,9 @@
-1345341325
+1345347588
 About page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	/home/brandon/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/brandon/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/brandon/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+Contact page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Contact page" do
 Help page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Help page" do
 Home page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "Home page" do
 SampleApp	/home/brandon/sample_app/config/application.rb	module SampleApp
@@ -13,8 +14,10 @@ about	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def 
 help	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def help
 home	/home/brandon/sample_app/app/controllers/static_pages_controller.rb	  def home
 should have the h1 'About Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
+should have the h1 'Contact Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Contact Us'" do
 should have the h1 'Help'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
 should have the h1 'Sample App'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Sample App'" do
 should have the title 'About Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
+should have the title 'Contact Us'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Contact Us'" do
 should have the title 'Help'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
 should have the title 'Home'	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Home'" do
