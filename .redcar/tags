@@ -1,4 +1,4 @@
-1345399170
+1345431998
 About page	/home/brandon/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	/home/brandon/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/brandon/sample_app/app/controllers/application_controller.rb	class ApplicationController 

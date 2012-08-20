@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.8'
 gem 'therubyracer'
 gem 'haml-rails'
+gem 'bootstrap-sass', '2.0.0'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
@@ -19,8 +20,6 @@ group :test do
   gem 'spork', '0.9.0'
 end 
 
-# Gems used only for assets and not required
-# in production environments by default.
 group :assets do
   gem 'sass-rails',   '3.2.4'
   gem 'coffee-rails', '3.2.2'

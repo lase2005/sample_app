@@ -9,9 +9,6 @@ cursor_positions:
   - :path: app/views/layouts/application.html.erb
     :cursor_offset: 0
     :timestamp: 2012-08-18 18:21:14 -05:00
-  - :path: Gemfile
-    :cursor_offset: 188
-    :timestamp: 2012-08-18 19:47:55 -05:00
   - :path: app/controllers/static_pages_controller.rb
     :cursor_offset: 107
     :timestamp: 2012-08-18 18:55:03 -05:00
@@ -45,4 +42,24 @@ cursor_positions:
   - :path: example_user.rb
     :cursor_offset: 196
     :timestamp: 2012-08-19 12:54:42 -05:00
+  - :path: app/views/layouts/testing.html.haml
+    :cursor_offset: 408
+    :timestamp: 2012-08-19 20:42:29 -05:00
+    :selection_offset: 348
+    :block_selection_mode: false
+  - :path: app/views/layouts/testing.html.erb
+    :cursor_offset: 889
+    :timestamp: 2012-08-19 20:35:22 -05:00
+  - :path: app/views/static_pages/testing.html.haml
+    :cursor_offset: 0
+    :timestamp: 2012-08-19 21:04:20 -05:00
+  - :path: app/views/static_pages/home.html.haml
+    :cursor_offset: 323
+    :timestamp: 2012-08-19 21:04:40 -05:00
+  - :path: Gemfile
+    :cursor_offset: 116
+    :timestamp: 2012-08-19 21:17:34 -05:00
+  - :path: app/views/static_pages/testing.html.erb
+    :cursor_offset: 369
+    :timestamp: 2012-08-19 21:01:41 -05:00
 files_to_retain: 0
