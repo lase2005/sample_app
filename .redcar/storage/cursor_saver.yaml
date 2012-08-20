@@ -9,9 +9,6 @@ cursor_positions:
   - :path: app/views/layouts/application.html.erb
     :cursor_offset: 0
     :timestamp: 2012-08-18 18:21:14 -05:00
-  - :path: app/controllers/static_pages_controller.rb
-    :cursor_offset: 107
-    :timestamp: 2012-08-18 18:55:03 -05:00
   - :path: app/views/static_pages/help.html.erb
     :cursor_offset: 454
     :timestamp: 2012-08-18 20:08:30 -05:00
@@ -24,18 +21,6 @@ cursor_positions:
   - :path: app/helpers/application_helper.rb
     :cursor_offset: 0
     :timestamp: 2012-08-18 20:42:18 -05:00
-  - :path: app/views/layouts/application.html.haml
-    :cursor_offset: 0
-    :timestamp: 2012-08-18 20:42:18 -05:00
-  - :path: app/views/static_pages/about.html.haml
-    :cursor_offset: 0
-    :timestamp: 2012-08-18 20:42:18 -05:00
-  - :path: spec/requests/static_pages_spec.rb
-    :cursor_offset: 1
-    :timestamp: 2012-08-18 21:08:41 -05:00
-  - :path: config/routes.rb
-    :cursor_offset: 66
-    :timestamp: 2012-08-18 21:12:27 -05:00
   - :path: spec/spec_helper.rb
     :cursor_offset: 0
     :timestamp: 2012-08-18 22:08:06 -05:00
@@ -53,13 +38,58 @@ cursor_positions:
   - :path: app/views/static_pages/testing.html.haml
     :cursor_offset: 0
     :timestamp: 2012-08-19 21:04:20 -05:00
-  - :path: app/views/static_pages/home.html.haml
-    :cursor_offset: 323
-    :timestamp: 2012-08-19 21:04:40 -05:00
-  - :path: Gemfile
-    :cursor_offset: 116
-    :timestamp: 2012-08-19 21:17:34 -05:00
   - :path: app/views/static_pages/testing.html.erb
     :cursor_offset: 369
     :timestamp: 2012-08-19 21:01:41 -05:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 131
+    :timestamp: 2012-08-20 11:01:37 -05:00
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2012-08-19 22:06:38 -05:00
+  - :path: app/views/static_pages/help.html.haml
+    :cursor_offset: 0
+    :timestamp: 2012-08-18 21:15:33 -05:00
+  - :path: app/views/static_pages/contact.html.haml
+    :cursor_offset: 31
+    :timestamp: 2012-08-18 21:27:07 -05:00
+  - :path: app/views/static_pages/about.html.haml
+    :cursor_offset: 0
+    :timestamp: 2012-08-18 21:16:03 -05:00
+  - :path: app/views/layouts/_shim.html.haml
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 09:10:47 -05:00
+  - :path: app/views/layouts/_footer.html.haml
+    :cursor_offset: 204
+    :timestamp: 2012-08-20 11:36:14 -05:00
+  - :path: app/views/layouts/application.html.haml
+    :cursor_offset: 128
+    :timestamp: 2012-08-20 09:10:44 -05:00
+  - :path: app/views/static_pages/home.html.haml
+    :cursor_offset: 222
+    :timestamp: 2012-08-20 12:11:39 -05:00
+  - :path: app/views/users/new.html.haml
+    :cursor_offset: 40
+    :timestamp: 2012-08-20 12:09:50 -05:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 12:00:03 -05:00
+  - :path: spec/support/utilities.rb
+    :cursor_offset: 168
+    :timestamp: 2012-08-20 12:02:34 -05:00
+  - :path: app/assets/stylesheets/custom.css.scss
+    :cursor_offset: 1266
+    :timestamp: 2012-08-20 11:20:47 -05:00
+  - :path: spec/requests/static_pages_spec.rb
+    :cursor_offset: 903
+    :timestamp: 2012-08-20 11:56:52 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 125
+    :timestamp: 2012-08-20 12:08:00 -05:00
+  - :path: app/views/layouts/_header.html.haml
+    :cursor_offset: 224
+    :timestamp: 2012-08-20 11:37:59 -05:00
+  - :path: spec/requests/user_pages_spec.rb
+    :cursor_offset: 68
+    :timestamp: 2012-08-20 12:15:23 -05:00
 files_to_retain: 0

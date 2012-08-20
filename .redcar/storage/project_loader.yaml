@@ -1,3 +1,5 @@
 --- 
-open_files: []
-
+open_files: 
+  - config/routes.rb
+  - app/views/layouts/_header.html.haml
+  - spec/requests/user_pages_spec.rb
