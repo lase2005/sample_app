@@ -71,9 +71,6 @@ cursor_positions:
   - :path: app/views/users/new.html.haml
     :cursor_offset: 40
     :timestamp: 2012-08-20 12:09:50 -05:00
-  - :path: app/controllers/users_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 12:00:03 -05:00
   - :path: spec/support/utilities.rb
     :cursor_offset: 168
     :timestamp: 2012-08-20 12:02:34 -05:00
@@ -84,12 +81,36 @@ cursor_positions:
     :cursor_offset: 903
     :timestamp: 2012-08-20 11:56:52 -05:00
   - :path: config/routes.rb
-    :cursor_offset: 125
-    :timestamp: 2012-08-20 12:08:00 -05:00
-  - :path: app/views/layouts/_header.html.haml
-    :cursor_offset: 224
-    :timestamp: 2012-08-20 11:37:59 -05:00
+    :cursor_offset: 126
+    :timestamp: 2012-08-21 09:17:28 -05:00
   - :path: spec/requests/user_pages_spec.rb
     :cursor_offset: 68
     :timestamp: 2012-08-20 12:15:23 -05:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 12:00:03 -05:00
+  - :path: db/migrate/20120821215406_ad_password_digest_to_users.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 16:54:06 -05:00
+  - :path: db/migrate/20120821224335_add_password_digest_to_users.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 17:43:35 -05:00
+  - :path: db/migrate/20120821212913_add_index_to_users_email.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 17:43:45 -05:00
+  - :path: db/migrate/20120821135036_create_users.rb
+    :cursor_offset: 169
+    :timestamp: 2012-08-21 08:50:36 -05:00
+  - :path: db/development.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 17:44:21 -05:00
+  - :path: db/schema.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 17:44:22 -05:00
+  - :path: app/models/user.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-21 17:35:57 -05:00
+  - :path: app/views/layouts/_header.html.haml
+    :cursor_offset: 224
+    :timestamp: 2012-08-20 11:37:59 -05:00
 files_to_retain: 0
